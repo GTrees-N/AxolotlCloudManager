@@ -1,0 +1,2 @@
+# AxolotlCloudManager
+在本地搭建一个可以使《AxolotlEditor》获取到本地云变量和云数据的接口，你也可以使用类似于命令的方式控制这些本地云变量和云数据。
